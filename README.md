@@ -25,3 +25,6 @@ Remote API requests with the help of free online REST API with fake posts and us
 [JSONPlaceholder](https://jsonplaceholder.typicode.com/) is a free online REST API that you can use whenever you need some fake data. It can be in a README on GitHub, for a demo on CodeSandbox, in code examples on Stack Overflow, ...or simply to test things locally.
 
 ### • Custom Light & Dark Theme
+
+## Credits
+I do not own user icon used in this project. The author is [Flat Icons](https://www.flaticon.com/premium-icon/play_3588455) from [Flaticon](https://www.flaticon.com/).
