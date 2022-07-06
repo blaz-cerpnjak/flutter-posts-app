@@ -1,5 +1,7 @@
 # Simple Posts App
 
+This is a simple app where I tested API calls and navigation library called Auto Route.
+
 ## Demo
 <p align="left">
   <img src="posts_page.png" height="450" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -17,7 +19,7 @@ Source: [Auto Route Library](https://pub.dev/packages/auto_route) <br/>
 
 ### • API Requests
 
-Remote API requests with the help of free online REST API with fake posts and users. <br/>
+Remote API requests with the help of free online REST API with fake posts and users. <br/><br/>
 [JSONPlaceholder](https://jsonplaceholder.typicode.com/) is a free online REST API that you can use whenever you need some fake data. It can be in a README on GitHub, for a demo on CodeSandbox, in code examples on Stack Overflow, ...or simply to test things locally.
 
 ### • Custom Light & Dark Theme
