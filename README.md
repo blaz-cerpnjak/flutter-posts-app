@@ -1,16 +1,23 @@
-# auto_route_example_app
+# Simple Posts App
 
-A new Flutter project.
+## Demo
+<p align="left">
+  <img src="posts_page.png" height="450" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="users_page.png" height="450" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="user_info_page.png" height="450" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="dark_mode.png" height="450" />&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-## Getting Started
+## Functionality
 
-This project is a starting point for a Flutter application.
+### • Auto Route
+It's a navigation package, it allows for strongly-typed arguments passing, effortless deep-linking and it uses code generation to simplify routes setup, with that being said it requires a minimal amount of code to generate everything needed for navigation inside of your App.
 
-A few resources to get you started if this is your first Flutter project:
+Source: [Auto Route Library](https://pub.dev/packages/auto_route) <br/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### • API Requests
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Remote API requests with the help of free online REST API with fake posts and users. <br/>
+[JSONPlaceholder](https://jsonplaceholder.typicode.com/) is a free online REST API that you can use whenever you need some fake data. It can be in a README on GitHub, for a demo on CodeSandbox, in code examples on Stack Overflow, ...or simply to test things locally.
+
+### • Custom Light & Dark Theme
