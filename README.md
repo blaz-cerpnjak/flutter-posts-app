@@ -6,8 +6,10 @@ This is a simple app where I tested API calls and navigation library called Auto
 <p align="left">
   <img src="posts_page.png" height="450" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="users_page.png" height="450" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="user_info_page.png" height="450" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="dark_mode.png" height="450" />&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<p align="left">
+ <img src="user_info_page.png" height="450" />&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="dark_mode.png" height="450" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Functionality
